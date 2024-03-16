@@ -100,7 +100,7 @@ To play the game the controls are as follows:
   <img width="406" alt="image" src="https://github.com/D-TheProgrammer/Projet_2D_Platformer_in_Godot/assets/151149998/0938cf09-5f1a-42a5-8811-6a79e9c12c36">
 </div>
 
-#### ÉTAPE 6 : Si le joueur meurt / STEP 6 : If the player dies
+#### ÉTAPE 6 : Si le joueur meurt son contrat prend feu / STEP 6 : If the player dies, his contract catches fire
 <div align="center">
   <img width="466" alt="image" src="https://github.com/D-TheProgrammer/Projet_2D_Platformer_in_Godot/assets/151149998/d4655cd8-1ac9-4677-9c32-958371d46c1f">
 </div>
