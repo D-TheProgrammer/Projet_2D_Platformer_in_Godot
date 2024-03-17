@@ -29,11 +29,11 @@ Pour jouer les commandes sont les suivantes :
 - **P** : Pour faire pause  
 
 > [!TIP]
-> Pour lancer le fichier sur linux/ubuntu
+> Pour utiliser l'exécutable sur Linux/Ubuntu, téléchargez le dossier "linux-ubuntu_executable" et décompressez-le. Ensuite, lancez-le avec cette commande :
 > ```bash
 > ./Mister_M.x86_64
 > ````
-> Pour lancer le fichier sur Windows
+> Pour utiliser l'exécutable sur Windows, téléchargez le dossier "windows_executable" et décompressez-le. Ensuite, lancez-le avec cette commande :
 > ```bash
 > ./Mister_M.x86_64.exe
 > ````
@@ -56,11 +56,11 @@ To play the game the controls are as follows:
 - **P** : Pause the game
 
 > [!TIP]
-> To launch the file on linux/ubuntu
+> To use the executable on Linux/Ubuntu, download the "linux-ubuntu_executable" folder and unzip it. Then, launch it with this command:
 > ```bash
 > ./Mister_M.x86_64
 > ````
-> To launch the file on Windows
+> To use the executable on Windows, download the "windows_executable" folder and unzip it. Then, launch it with this command:
 > ```bash
 > ./Mister_M.x86_64.exe
 > ````
